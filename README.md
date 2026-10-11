@@ -59,3 +59,6 @@ Make sure you have the Java Development Kit (JDK) installed.
 - `Player.java` — Represents each player.
 - `Round.java` — Handles round comparisons and determines the winner.
 
+## AI Tools & Process
+
+I used ChatGPT (GPT-6) as an AI-assisted coding tool to help reconstruct and refine the project based on my original outline. I guided the design decisions and used iterative prompting to improve the implementation and game mechanics.
